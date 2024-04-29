@@ -103,6 +103,7 @@ main{
   padding-block: 18px;
   border-radius: 10px;
   cursor:pointer;
+  text-decoration: none;
 }
 h1{
   color: hsl(0, 0%, 100%);
