@@ -62,6 +62,7 @@ nav{
   padding-block: 18px;
   border-radius: 10px;
   cursor:pointer;
+  text-decoration: none;
 }
 .links:focus{
   background-color:  hsl(75, 94%, 57%);
@@ -97,13 +98,12 @@ main{
   color: hsl(0, 0%, 100%);
   margin-bottom: 10px;
   width: 280px;
-  font-size: 14px;
+  font-size: 12px;
   font-weight: 600;
   text-transform: uppercase;
   padding-block: 18px;
   border-radius: 10px;
   cursor:pointer;
-  text-decoration: none;
 }
 h1{
   color: hsl(0, 0%, 100%);
